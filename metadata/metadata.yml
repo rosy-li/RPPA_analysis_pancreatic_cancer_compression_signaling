@@ -1,2 +1,22 @@
 metadata_version: 1
 name: 'MECHANICAL STRESS IN PANCREATIC CANCER: SIGNALING PATHWAY ADAPTATION ACTIVATES CYTOSKELETAL REMODELING AND ENHANCES CELL MIGRATION'
+description: R script for analysis of RPPA data
+authors:
+- name: Maria Kalli
+  affiliations:
+  - name: University of Cyprus
+- name: Ruxuan Li
+  affiliations:
+  - name: University of Pittsburgh
+- name: Gordon B. Mills
+  affiliations:
+  - name: Oregon Health & Science University
+- name: Triantafyllos Stylianopoulos
+  affiliations:
+  - name: University of Cyprus
+- name: Ioannis Zervantonakis
+  affiliations:
+  - name: University of Pittsburgh
+corresponding_contributor:
+  name: Ioannis Zervantonakis
+  email: ioz1@pitt.edu

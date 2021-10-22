@@ -11,7 +11,7 @@
 ###Clear environment and set options
 rm(list=ls())
 options(stringsAsFactors = FALSE)
-
+print('testing output')
 {
   # library(d3heatmap)
   library(gplots)
@@ -417,4 +417,4 @@ options(stringsAsFactors = FALSE)
   abline(h=1.2)
 }
 
-
+print('The end of the code')
