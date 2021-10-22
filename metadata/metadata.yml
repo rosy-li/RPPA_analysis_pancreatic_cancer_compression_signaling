@@ -1,5 +1,5 @@
 metadata_version: 1
-name: 'MECHANICAL STRESS IN PANCREATIC CANCER: SIGNALING PATHWAY ADAPTATION ACTIVATES CYTOSKELETAL REMODELING AND ENHANCES CELL MIGRATION'
+name: Mechanical stress activates p38 MAPK and JNK and induces cytoskeletal changes through Rac1/cdc42/myosin II signaling axis to promote pancreatic cancer cell migration
 description: R script for analysis of RPPA data
 authors:
 - name: Maria Kalli
